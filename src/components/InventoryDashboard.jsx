@@ -10,7 +10,7 @@ const initialProducts = [
         name: "Croissant de Almendras",
         stock: 3,
         category: "Pastelería",
-        price: 4500,
+        price: 5500,
     },
     {
         id: 3,
