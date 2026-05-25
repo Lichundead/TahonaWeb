@@ -4,7 +4,7 @@ import ProductRow from "./ProductRow";
 function InventoryTable({ products, onStockChange }) {
     return (
         <section className="inventory-section">
-            <h2>Lista de Inventario</h2>
+            <h2>Lista de Inventario </h2>
             <table className="inventory-table">
                 <thead>
                     <tr>
