@@ -1,0 +1,25 @@
+:root {
+    --bg-primary: #fcf9f5;
+    --bg-card: #ffffff;
+    --text-main: #3e2723;
+    --text-muted: #795548;
+    --accent: #d81b60;
+    --accent-hover: #ad1457;
+    --border-color: #e0d4c8;
+    --sidebar-bg: #f5ebe0;
+    --success: #2e7d32;
+    --danger: #c62828;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: var(--bg-primary);
+    color: var(--text-main);
+    overflow: hidden;
+}
